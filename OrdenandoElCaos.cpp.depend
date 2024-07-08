@@ -1,0 +1,71 @@
+# depslib dependency file v1.0
+1682807246 source:c:\programacion\ordenandoelcaos.cpp\main.cpp
+	"Gestiones.hpp"
+	"Utileria.hpp"
+	"HerramientasGestion.hpp"
+	"HerramientasVectores.hpp"
+	"MetodosDeOrdenamiento.hpp"
+	"Menu.hpp"
+	<cstdlib>
+
+1682824379 source:c:\programacion\ordenandoelcaos.cpp\utileria.cpp
+	"Utileria.hpp"
+	<iostream>
+	<limits>
+
+1682822758 c:\programacion\ordenandoelcaos.cpp\utileria.hpp
+	<limits>
+	<iostream>
+	<windows.h>
+
+1682823791 source:c:\programacion\ordenandoelcaos.cpp\herramientasgestion.cpp
+	"Utileria.hpp"
+	"HerramientasGestion.hpp"
+
+1682634383 c:\programacion\ordenandoelcaos.cpp\herramientasgestion.hpp
+	<ctime>
+
+1682823601 source:c:\programacion\ordenandoelcaos.cpp\herramientasvectores.cpp
+	"HerramientasVectores.hpp"
+	"Utileria.hpp"
+
+1682808525 c:\programacion\ordenandoelcaos.cpp\herramientasvectores.hpp
+	<conio.h>
+
+1682222829 source:c:\programacion\ordenandoelcaos.cpp\menu.cpp
+	"Utileria.hpp"
+	"Menu.hpp"
+
+1682223322 c:\programacion\ordenandoelcaos.cpp\menu.hpp
+	<iostream>
+
+1682807194 c:\programacion\ordenandoelcaos.cpp\gestiones.hpp
+
+1682223202 c:\programacion\ordenandoelcaos.cpp\gestionprincipal.hpp
+	<cstdlib>
+
+1682810001 c:\programacion\ordenandoelcaos.cpp\metodosdeordenamiento.hpp
+
+1682223377 source:c:\programacion\ordenandoelcaos.cpp\gestionprincipal.cpp
+	<iostream>
+	<limits>
+	"Gestiones.hpp"
+	"Utileria.hpp"
+	"HerramientasGestion.hpp"
+	"HerramientasVectores.hpp"
+	"MetodosDeOrdenamiento.hpp"
+	"Menu.hpp"
+	"GestionPrincipal.hpp"
+
+1682822747 source:c:\programacion\ordenandoelcaos.cpp\gestiones.cpp
+	"HerramientasGestion.hpp"
+	"HerramientasVectores.hpp"
+	"Gestiones.hpp"
+	"MetodosDeOrdenamiento.hpp"
+	"Utileria.hpp"
+
+1682809966 source:c:\programacion\ordenandoelcaos.cpp\metodosdeordenamiento.cpp
+	"Utileria.hpp"
+	"HerramientasVectores.hpp"
+	"MetodosDeOrdenamiento.hpp"
+
